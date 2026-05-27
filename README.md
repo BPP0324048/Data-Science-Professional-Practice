@@ -34,7 +34,7 @@ Associate Data Scientist with 1 year of hands-on experience in data analysis, vi
 
 **Salary Prediction Machine Learning Model**
 
-[View Project](https://github.com/BPP0324048/Data-Science-Professional-Practice/blob/main/BPP%20Assignment.ipynb)
+[View Project](images/BPP Assignment.ipynb)
 
 Developed a comprehensive machine learning pipeline to predict employee salaries based on job-related features across a dataset of 250,000 records. The project encompassed full data quality assessment, exploratory data analysis, feature engineering, and preprocessing. Initial data validation using Pandas confirmed data integrity with no nulls or duplicates. Feature engineering generated two additional derived features, followed by distribution analysis via histograms and box plots to identify outliers and patterns. A Pearson correlation matrix was constructed to identify salary drivers. Categorical features were encoded using scikit-learn's ColumnTransformer, distinguishing between ordinal and nominal variables. The baseline linear regression model achieved an R² of 0.955, indicating strong predictive power. Advanced models including Random Forest and Gradient Boosting Regressors were evaluated, with the Gradient Boosting model delivering superior MAE and RMSE performance.
 
